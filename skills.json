@@ -41,23 +41,23 @@
     },
     {
         "name": "Prep Builder",
-        "icon": "./assets/images/SkillsLogos/Tableau Prep Logo (1).png"
+        "icon": "./assets/images/SkillsLogos/Tableau-Prep-Logo-(1).png"
     },
     {
         "name": "TensorFlow",
-        "icon": "./assets/images/SkillsLogos/tensorflow logo (1).png"
+        "icon": "./assets/images/SkillsLogos/tensorflow-logo-(1).png"
     },
     {
         "name": "Keras",
-        "icon": "./assets/images/SkillsLogos/keras Logo (1).png"
+        "icon": "./assets/images/SkillsLogos/keras-Logo-(1).png"
     },
     {
         "name": "PyTorch",
-        "icon": "./assets/images/SkillsLogos/PyTorch Logo (1).webp"
+        "icon": "./assets/images/SkillsLogos/PyTorch-Logo-(1).webp"
     },
     {
         "name": "Alteryx",
-        "icon": "./assets/images/SkillsLogos/Alteryx Logo (1).jpeg"
+        "icon": "./assets/images/SkillsLogos/Alteryx-Logo-(1).jpeg"
     },
     {
         "name": "Optimization",
